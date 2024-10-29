@@ -1,0 +1,22 @@
+{
+  "en": {
+    "evolutionTitle": "Evolution of",
+    "chainTitle": "Evolution Chain",
+    "back": "Back",
+    "loadPokemons": "Load more pokémons",
+    "pokemonList": "Pokémon List",
+    "pokeApp": "POKÉ-APP",
+    "hasNoEvolution": "This pokémon has no evolution",
+    "close": "Close"
+  },
+  "es": {
+    "evolutionTitle": "Evolución de",
+    "chainTitle": "Cadena evolutiva",
+    "back": "Atrás",
+    "loadPokemons": "Cargar más pokémons",
+    "pokemonList": "Lista de Pokémons",
+    "pokeApp": "POKÉ-APP",
+    "hasNoEvolution": "Este pokémon no tiene evoluciones",
+    "close": "Cerrar"
+  }
+}
