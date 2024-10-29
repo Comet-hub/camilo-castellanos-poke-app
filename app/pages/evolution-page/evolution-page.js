@@ -31,8 +31,6 @@ class Evolution extends intl(cellsPage(LitElement)) {
     super();
     this.pokemon = {};
     this.backIcon = backMiniIcon;
-
-    // this.handleChannels();
   }
 
   firstUpdated() {
@@ -40,7 +38,7 @@ class Evolution extends intl(cellsPage(LitElement)) {
   }
 
   static get styles() {
-    return [ styles ];
+    return [styles];
   }
 
   render() {

@@ -15,7 +15,7 @@ class Home extends intl(cellsPage(LitElement)) {
   }
 
   static get styles() {
-    return [ styles ];
+    return [styles];
   }
 
   render() {
